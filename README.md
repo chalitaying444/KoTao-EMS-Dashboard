@@ -1,4 +1,4 @@
-# KohTao-EMS-Dashboard
+# KohTao-EMS-Dashboard Version Original (เดือน 1-6 เดิน DG only ,เดือน 7-12 เดิน Submarine + DG)
 เป้าหมายของระบบคือ
 1.	รักษาความมั่นคงของระบบไฟฟ้า: จ่ายโหลดให้พอ ไม่ให้เกิด load shedding
 2.	ควบคุมข้อจำกัดทางเทคนิคของจุดเชื่อมต่อ 115 kV: ไม่ให้โหลดฝั่ง 115 kV เกิน limit
